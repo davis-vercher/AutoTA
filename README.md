@@ -12,8 +12,8 @@ Requirements: Students must be able to upload their source code, which will be r
 
 
 ## Lessons Learned & Experience Gained
-Without prior AWS experience, designing a theoretically functional AWS system provided many opportunities for research into various AWS tools/services, which was done to identify the specific components of the final system architecture.
-Additionally, thinking through the integration of the AWS architecture to an existing university learning management system (in this case, Canvas) provided an opportunity to investigate the feasibility of such an integration.
+- Without prior AWS experience, designing a theoretically functional AWS system provided many opportunities for research into various AWS tools/services, which was done to identify the specific components of the final system architecture.
+- Additionally, thinking through the integration of the AWS architecture to an existing university learning management system (in this case, Canvas) provided an opportunity to investigate the feasibility of such an integration.
 
 ## High-Level Final Architecture
 #### _Full solution explanation in repository files_
